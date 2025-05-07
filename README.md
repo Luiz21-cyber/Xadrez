@@ -1,14 +1,9 @@
 # Xadrez
 
-Simulador de Movimentação de Peças de Xadrez em C
-Este programa em linguagem C simula a movimentação de três peças do xadrez — Torre, Bispo e Rainha — utilizando diferentes estruturas de repetição: for, while e do-while.
+Simulador de Movimentos de Peças de Xadrez em C
 
-Cada peça executa movimentos específicos no tabuleiro, e o programa imprime no console a direção percorrida a cada casa simulada.
+Descrição:
 
-Peças e Movimentos:
+Este programa simula os movimentos de quatro peças do xadrez — Torre, Bispo, Rainha e Cavalo — utilizando recursividade e loops complexos aninhados, conforme solicitado no desafio final da disciplina.
 
-Torre: move-se 5 casas para a direita usando um laço for.
-
-Bispo: move-se 5 casas na diagonal cima-direita utilizando um laço while.
-
-Rainha: move-se 8 casas para a esquerda com um laço do-while.
+A proposta do trabalho é substituir estruturas simples por técnicas mais avançadas de programação, explorando chamadas recursivas, múltiplos níveis de iteração e controle de fluxo com break e continue.
